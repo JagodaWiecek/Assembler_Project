@@ -1,0 +1,6 @@
+﻿  Assembling Filtry_asembler.asm...
+     Trwa tworzenie biblioteki C:\Users\jwiec\Desktop\Filtr_koloru\x64\Release\filtr_asembler.lib i obiektu C:\Users\jwiec\Desktop\Filtr_koloru\x64\Release\filtr_asembler.exp
+filtr_asembler.exp : warning LNK4070: /OUT: dyrektywa Filtry_asembler.dll w pliku .EXP jest inna niż nazwa pliku wyjściowego „C:\Users\jwiec\Desktop\Filtr_koloru\x64\Release\filtr_asembler.dll”; dyrektywa została zignorowana
+  LINK : określono opcję /LTCG, lecz generowanie kodu nie było wymagane; usuń opcję /LTCG z wiersza polecenia konsolidatora w celu podwyższenia wydajności konsolidatora
+filtr_asembler.exp : warning LNK4070: /OUT: dyrektywa Filtry_asembler.dll w pliku .EXP jest inna niż nazwa pliku wyjściowego „C:\Users\jwiec\Desktop\Filtr_koloru\x64\Release\filtr_asembler.dll”; dyrektywa została zignorowana
+  filtr_asembler.vcxproj -> C:\Users\jwiec\Desktop\Filtr_koloru\x64\Release\filtr_asembler.dll

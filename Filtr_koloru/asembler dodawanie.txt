@@ -1,0 +1,7 @@
+.code
+Filtr_color proc
+add RCX, RDX
+mov RAX, RCX
+ret
+Filtr_color endp
+end

@@ -1,0 +1,2 @@
+LIBRARY Filtry_asembler
+EXPORTS Filtr_color
